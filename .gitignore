@@ -1,0 +1,6 @@
+/target/
+/secrets.yml
+.env
+.idea/
+*.iml
+.DS_Store
